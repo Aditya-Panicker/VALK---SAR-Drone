@@ -1,0 +1,25 @@
+# Parts List — Stage 1 (VALK)
+
+
+## Essential
+- Pixhawk 2.4.8 flight controller
+- Standard Pixhawk 2.4.8 Power Module (e.g., PM02 or equivalent) power module
+- u-blox NEO-8 GPS module
+- Telemetry radio (915 MHz or 433 MHz recommended for India)
+- 4 × brushless motors (S500-class, e.g., 2212/920KV or similar)
+- 4 × 30A ESCs (BLHeli)
+- S500 (Holybro S500 V2) frame kit (frame, arms, PDB, props)
+- 2 × LiPo batteries (4S, 5000–5200 mAh, ≥30C)
+- LiPo balance charger (supports 4S, 5A recommended)
+- XT60 connectors, wiring harness, heatshrink
+
+
+## Recommended
+- Spare arms, spare propellers
+- Vibration-damping mount for Pixhawk
+- Buzzer & safety switch
+- Multimeter, zip ties, threadlocker
+
+
+## Optional
+- Landing gear extensions, camera mount, 5V 5A BEC (for Pi)
