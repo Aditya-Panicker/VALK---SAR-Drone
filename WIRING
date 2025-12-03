@@ -1,0 +1,14 @@
+# Wiring diagram notes
+
+
+Key connections:
+- Battery (XT60) → PDB → ESCs → Motors
+- PDB → Holybro PM06 → Pixhawk 2.4.8 (5V rail)
+- GPS (M8N) connected to GPS port with compass wiring
+- Telemetry radio UART to TELEM1
+- Safety switch and buzzer to AUX
+
+
+Safety notes:
+- Balance-charge LiPo only; never charge unattended.
+- Secure all wiring with zip ties and apply threadlocker to metal fasteners.
