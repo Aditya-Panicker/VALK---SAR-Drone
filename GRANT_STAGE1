@@ -1,0 +1,34 @@
+Grant Request — VALK Stage 1 (Flight Stack & Integration)
+
+
+**Project:** VALK — Modular Search-and-Rescue Drone (Stage 1)
+
+
+**Goal:** Build a safe, reliable flight system as the foundation for a future AI-powered survivor-detection payload.
+
+
+**Why this matters:** In disaster scenarios, rapid aerial search can save lives. VALK aims to be a low-cost, modular SAR drone that can be replicated and improved.
+
+
+**Requested budget (USD/INR equivalent):** ≤ $400 (≈ ₹35k)
+
+
+**Itemized budget**
+- Holybro S500 V2 kit (frame + motors + ESCs + props): ₹24,000
+- Holybro PM06 V2 power module: ₹3,500
+- 2 × LiPo 4S 5000–5200 mAh (30C): ₹3,200
+- LiPo balance charger (supports 4S, 5A): ₹1,800
+- Wiring, connectors, heat shrink, mounts: ₹1,500
+
+
+**Total requested:** ≈ ₹34,000 (within ₹36k limit)
+
+
+**Milestones & Deliverables (Stage 1)**
+1. Bench tests: Pixhawk config, ESCs & motor tests — documented with photos.
+2. Frame assembly: S500 build + wiring — photos and wiring diagram.
+3. Flight tests: first hover, GPS hold — flight logs and short video.
+4. Payload prep: mount design for Raspberry Pi 5 (no Pi purchased yet).
+
+
+**Documentation plan:** Daily journal entries on Blueprint; repo updates; at least 6 public entries and final build report.
